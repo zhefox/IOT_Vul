@@ -54,7 +54,7 @@ When we set connect type = ' PPPoE ', we will get a command injection vulnerabil
 
  ![image-20220624180331870](img/image-20220624180331870.png)
 
- ![image-20220624180308018](img/image-20220624180308018.png)
+
 
 
 
