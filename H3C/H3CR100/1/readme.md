@@ -1,5 +1,5 @@
 # H3C magicr100 has a Command Execution Vulnerability
-
+# CVE-202234598
 
 
 ## Firmware download
